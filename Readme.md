@@ -28,12 +28,10 @@ This project uses historical stock data to train an LSTM model capable of predic
 - Matplotlib & Pandas
 
 ## 🚀 Getting Started
-
-
 ```
 git clone https://github.com/justAPR/lstm-stock-predictor.git
-cd lstm-stock-predictor```
-
+cd lstm-stock-predictor
+```
 ```
 pip install -r requirements.txt
 ```
