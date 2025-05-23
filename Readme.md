@@ -29,7 +29,7 @@ This project uses historical stock data to train an LSTM model capable of predic
 
 ## 🚀 Getting Started
 ```
-git clone https://github.com/justAPR/lstm-stock-predictor.git
+git clone https://github.com/justAPR/Stocks_via_LSTM.git
 cd lstm-stock-predictor
 ```
 ```
